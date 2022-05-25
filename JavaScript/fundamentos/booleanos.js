@@ -28,4 +28,4 @@ console.log('para finalizar ...')
 console.log('' || null || 0 || ' ')
 
 let nome = 'Lucas'
-console.log(nome || 'desconhecido')
+console.log(nome || 'desconhecido') // opções 
